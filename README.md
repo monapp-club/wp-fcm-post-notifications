@@ -1,4 +1,4 @@
-# FCM Push Notification from WordPress
+# WordPress FCM React Native
 
 Notify your users using Firebase Cloud Messaging (FCM) when content is published or updated.
 
